@@ -1,0 +1,16 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  font-family: 'Roboto';
+}
